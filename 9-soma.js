@@ -4,6 +4,9 @@ a soma deles.
 
 Programa desenvolvido por:
  - Conrado Grachinski Frasson
+ - Gabriel Lazzarini
+ - Murilo Borges
+ - Enzo Biaco
 */
 
 const prompt = require ('prompt-sync') ({sigint: true})

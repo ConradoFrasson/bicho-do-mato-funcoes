@@ -9,6 +9,9 @@ Você pode usar a função .repeat().
 
 Programa desenvolvido por:
  - Conrado Grachinski Frasson
+ - Gabriel Lazzarini
+ - Murilo Borges
+ - Enzo Biaco
 */
 
 const prompt = require ('prompt-sync') ({sigint:true})

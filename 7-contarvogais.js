@@ -11,6 +11,9 @@ para contar quantas vezes uma vogal aparece.
 
 Programa desenvolvido por:
  - Conrado Grachinski Frasson
+ - Gabriel Lazzarini
+ - Murilo Borges
+ - Enzo Biaco
 */
 
 let palavra = 'Continue Cara'
