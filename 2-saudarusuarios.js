@@ -4,6 +4,9 @@ exibe uma saudação para cada nome no console.
 
 Programa desenvolvido por:
  - Murilo Borges🤠
+ - Conrado
+ - Gabriel L
+ - Enzo
  */
 
 

@@ -9,7 +9,9 @@ inverter o array e join('') para juntar os caracteres de volta em uma string.
 
 Programa desenvolvido por:
  - Murilo Borges🤠
-
+ - Conrado
+ - Gabriel L
+ - Enzo
 */
 
 

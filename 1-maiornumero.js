@@ -4,6 +4,9 @@ o maior número do array.
 
 Programa desenvolvido por:
  - Murilo Borges🤠
+ - Conrado
+ - Gabriel L
+ - Enzo
 */
 
 function findMax(vetor){
