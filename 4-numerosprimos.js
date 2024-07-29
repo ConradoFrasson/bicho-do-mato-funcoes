@@ -8,8 +8,26 @@ se ele é divisível por qualquer número entre 2 e a raiz quadrada do número.
 Você pode usar a função sqrt() da biblioteca Math para calcular isso.
 
 Programa desenvolvido por:
- - Aluno 1
- - Aluno 2
- - Aluno 3
- - Aluno 4
+ - Conrado Grachinski frasson
+ - Gabriel lazarine
+ - Murilo Borges
+ - Enzo Biaco
 */
+
+function isPrime(num) {
+    if (num <= 1) return false;
+    if (num === 2) return true; 
+    if (num % 2 === 0) return false; 
+
+    let sqrtNum = Math.sqrt(num);
+    for (let i = 3; i <= sqrtNum; i += 2) {
+        if (num % i === 0) return false;
+    }
+
+    return true;
+
+}  console.log(isPrime(18))
+console.log(isPrime(19))
+console.log(isPrime(20))
+console.log(isPrime(21))
+console.log(isPrime(23))
